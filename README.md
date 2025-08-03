@@ -16,10 +16,9 @@ It helps users plan trips, suggest hotels, create smart packing lists, and fetch
 - IBM Cloud Deployment Spaces
 
 ## 📸 Demo Screenshots
-(Include images like the one you shared)
+<img width="1365" height="767" alt="ibm1" src="https://github.com/user-attachments/assets/2ccaf116-e68a-4fd2-8da6-290caadb377f" />
 
-## 🌐 Live Agent (optional)
-🔗 [Link to deployed agent preview] (if shareable)
+
 
 ## 🧪 Test Prompts
 ```text
